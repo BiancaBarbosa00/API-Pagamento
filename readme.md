@@ -28,8 +28,8 @@ Este projeto envia dados de pagamento para um gateway externo via API, realizand
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/BiancaBarbosa/pCompleto.git
-    cd pCompleto
+    git clone https://github.com/BiancaBarbosa00/API-Pagamento
+    cd API-Pagamento
     ```
 
 2. Instale as dependências:
